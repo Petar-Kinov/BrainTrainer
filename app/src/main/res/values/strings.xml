@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Brain Trainer</string>
+    <string name="play_again">Play Again</string>
+    <string name="game_over">Game Over</string>
+    <string name="start">START</string>
+    <string name="high_scores">HIGH SCORES</string>
+
 </resources>
